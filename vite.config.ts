@@ -17,5 +17,5 @@ export default defineConfig({
       '@src/': new URL('./src/', import.meta.url).pathname,
     },
   },
-  base: "./"
+  base: "https://gizzaprogger.github.io/my_chat_gpt_client/"
 });
