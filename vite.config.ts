@@ -17,5 +17,5 @@ export default defineConfig({
       '@src/': new URL('./src/', import.meta.url).pathname,
     },
   },
-  base: "./my_chat_gpt_client/"
+  base: "/my_chat_gpt_client/"
 });
